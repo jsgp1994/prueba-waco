@@ -13,6 +13,8 @@
 
         <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
+        <link rel="icon" type="image/x-icon" href="{{ asset('images/favicon.ico') }}">
+
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
