@@ -14,7 +14,7 @@ Prueba para desarrollador laravel
 
 - **Registro de usuarios**
 
-![](waco/img_readme/registrer.PNG)
+![](waco/img_readme/Registrer.PNG)
 
 - **Inicio de sesión**
 
